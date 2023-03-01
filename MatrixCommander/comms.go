@@ -45,10 +45,10 @@ func Auth() authstats {
 {
 	"identifier": {
 		"type": "m.id.user",
-		"user": "xertres"
+		"user": "<user>"
 	},
 	"initial_device_display_name": "rocks",
-	"password": "9QsZroWJxkb4Zq!!-2",
+	"password": "<secrets>",
 	"type": "m.login.password"
 }`)
 
