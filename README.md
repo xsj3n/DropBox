@@ -1,5 +1,7 @@
 # Development paused:
 ### I'll come back to this project once I have a AD lab to test LDAP queries with and more time on my hands
+I still like this idea, will return to this one day. 
+
 
 # DropBox
 Collection of scripts and software to help turn the Openwrt platform into a useful penetration testing tool
